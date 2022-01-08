@@ -29,6 +29,16 @@ Tech Stack : Node, Express, HandleBars (Express Engine), MongoDB and Google OAut
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | Gets a single stories
 
+#### Post Story
+
+```http
+ POST /story/:id
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | Creates a single stories
+
 #### Update Story
 
 ```http

@@ -1,7 +1,7 @@
 
 # Travelling-Pages
 
-This a full-stack application which lets a user post his/her public or privates which anyone can read.
+This a full-stack application which lets a user post his/her public or private stories/thoughts which anyone can read.
 Tech Stack : Node, Express, HandleBars (Express Engine), MongoDB and Google OAuth 2.0
 
 
